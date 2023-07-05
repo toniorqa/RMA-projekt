@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "938375391159",
+    "project_id": "tonikarimovicapp",
+    "storage_bucket": "tonikarimovicapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:938375391159:android:a7b2a381a2f998ab2bea32",
+        "android_client_info": {
+          "package_name": "com.example.tonikarimovicapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "938375391159-a9kqqv913rhaaa2ovjasv503amgjvgfj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDBXBoGA9yq0_kj_EZ426v0NuMjMZwHfAQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "938375391159-a9kqqv913rhaaa2ovjasv503amgjvgfj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
